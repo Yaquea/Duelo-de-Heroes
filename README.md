@@ -2,13 +2,6 @@
 
 ## Informacion de el repositorio
 El repositorio esta pensado como una forma de mejorar un proyecto universitario basico.
-
-### Los objetivos de este repositorio son:
-  -Practicar la programacion modular en c++.
-  
-  -Aprender nociones y uso de POO(En c++).
-  
-  -Organizar el codigo.
   
   -Implementar actualizaciones al juego(Posiblemente a futuro).
 
