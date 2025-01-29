@@ -12,4 +12,4 @@ El repositorio esta pensado como una forma de mejorar un proyecto universitario 
 
 ## Agradecimiento
 Muchas gracias por leer el readme, solamente es un repositorio de practica.
-solo corrige cualquier erorr
+solo corrige cualquier error
